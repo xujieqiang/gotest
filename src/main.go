@@ -50,9 +50,9 @@ func main(){
 	b="lucy is my name"
 	std.Println(a,"==",b)
 	var stu sear
-	stu.name="许杰强"
+	stu.name="jack"
 	stu.age = 192
-	q:=sear{"臧利敏",35}
+	q:=sear{"zhangsan",35}
 
 	var r int=rand.Intn(6)
 	std.Println(stu,"-->",q)
